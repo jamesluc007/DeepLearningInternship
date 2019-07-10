@@ -1,0 +1,2 @@
+Ejecucion de red neuronal ya entrenada por google para hacer una prediccion.
+La idea luego es romper la red con inputs manipulados, pero no se si lo haré.

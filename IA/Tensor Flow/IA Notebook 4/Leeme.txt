@@ -1,0 +1,1 @@
+La idea aca es hacer un red neuronal completa completa que ande re piola, sin usar librerias de Deep Learning

@@ -1,0 +1,1 @@
+Aqui se pretende implementar un red que haga la clasificacion del IA Notebook 4 pero usando TensorFlow

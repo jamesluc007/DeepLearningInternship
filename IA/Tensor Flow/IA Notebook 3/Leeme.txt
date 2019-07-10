@@ -1,0 +1,1 @@
+La idea de esto es declarar una funcion sacada de wikipedia y porder hacerle el gradient descent
