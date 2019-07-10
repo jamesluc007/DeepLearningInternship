@@ -1,0 +1,12 @@
+El IA Notebook1 es un ejercicio de regresion lineal bien simple, sin librerias de deep learning.
+
+El IA Notebook2 utiliza una red pre entrenada por google para hacer predicciones. La idea es acostumbrarse al concepto de TENSOR.
+
+El Ia Notebook3 hace gradient descent a una función en 3D sacada de Wikipedia. Es una función que tiene muchas montañitas, esta ideal
+para jugar con gradient descent y ver bien el rol del learning ratio entre otras cuestiones. No se usan librerías, todo a mano.
+
+El IA Notebook 4 está hecho 3 veces. Una sin librerias, otra con TensorFlow y otra con TensorFlor Y Keras. En ese orden van de menor nivel
+a mayor nivel. Esta bueno para ver que hacen las librerías internamente y ver realmente como funciona el back propagation. Es un ejercicio
+de clasificación, super simple.
+
+Hay una carpeta que es un curso pochoclero que saque del mit
