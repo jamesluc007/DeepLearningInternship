@@ -1,0 +1,1 @@
+Esta red neuronal clasifica imagenes en dos clases (bananas y lechugas). Da una salida entre 0 a 1 donde 1 es lechuga y 0 es banana.
