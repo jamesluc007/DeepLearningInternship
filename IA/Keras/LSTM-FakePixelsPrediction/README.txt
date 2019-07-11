@@ -1,0 +1,2 @@
+Las subcarpetas aqui presentes, alojan redes de tipo LSTM que predicen datos en vectores de conjuntos de números inventados.
+La idea es que esos conjuntos de números representan pixeles de una posible imágen.
