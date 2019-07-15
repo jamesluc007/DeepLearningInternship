@@ -1,1 +1,3 @@
 Aquí se utilizará la librería de alto nivel Keras
+
+En la carpeta CNN hay una red que clasifica imagenes entre 2 clases (bananas y lechugas)
