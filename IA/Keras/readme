@@ -1,3 +1,9 @@
 Aquí se utilizará la librería de alto nivel Keras
 
 En la carpeta CNN hay una red que clasifica imagenes entre 2 clases (bananas y lechugas)
+
+La carpeta LSTM-FakePixelsPrediction tiene una red que predice valores de una secuencia de enteros (ver readme para mas info)
+
+La carpeta LSTM-Basic tiene una arquitectura simple de redes con celdas LSTMs que use como base.
+
+LSTM-Music y LSTM-TextPrediction estan sin terminar.
