@@ -1,0 +1,7 @@
+En la carpeta "Modelos de Clasificacion y Regresion" hay redes de tipo convolucional y LSTM para clasificar imagenes y predecir datos
+futuros de una serie de tiempo.
+
+En la carpeta "Modelos de Generacion de Datos" hay una arquitectura conocida como PIX2PIX que permite generar una imagen a partir de otra
+manteniendo algunas caracteristicas y cambiando otras. Se entrenó con un dataset de segmentación facial.
+
+En la carpeta "Redes para practicar" hay varios notebooks basados en tutoriales y páginas online. (Ver readme dentro de la carpeta)
