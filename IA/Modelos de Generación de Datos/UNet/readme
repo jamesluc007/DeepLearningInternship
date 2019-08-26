@@ -1,0 +1,27 @@
+La arquitectura de este notebook, llamada Pix2Pix está implementada usando Keras. 
+
+Hay documentación teórica de alto nivel aqui: 
+
+https://www.youtube.com/watch?v=ysEjAqnHp64&t=
+
+Y de mas bajo nivel aqui: 
+
+https://ml4a.github.io/guides/Pix2Pix/
+
+https://www.youtube.com/watch?v=fcvYpzHmhvA
+
+https://github.com/tjwei/GANotebooks/blob/master/pix2pix-keras.ipynb
+
+Y aca hay un par de links que dan guias de como implementar Pix2Pix con Keras:
+
+https://machinelearningmastery.com/how-to-implement-pix2pix-gan-models-from-scratch-with-keras/
+
+https://machinelearningmastery.com/how-to-develop-a-pix2pix-gan-for-image-to-image-translation/
+
+Importante:
+
+Para poder cargar los modelos entrenados por mi, hace falta añadirle a esta carpeta unos archivos que estan disponibles en el siguiente link:
+
+http://www.mediafire.com/file/6wa86mgnmundzic/First.rar/file
+
+No los subi directamente a github porque son bastante pesados. 
