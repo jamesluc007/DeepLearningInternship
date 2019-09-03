@@ -5,8 +5,6 @@ This repository was created to save classifying and regression models which aim 
 
 Inside the folder IA, there are models programmed both using Keras and TensorFlow that work as a base (as a practice) to develop the final models for crop yield prediction. Each subfolder has (and MUST HAVE) a readme file. Some of them are in English, some in Spanish. 
 
-With respect to the comments: Every file must be commented so every colleague can understand how the code works and what each line does.
-
 Inside the folder Crop Yield Prediction, there must be the dataset used to train the crop yield prediction models as well as the models themselves.
 
 
